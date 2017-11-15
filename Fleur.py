@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from fonctions import *
+from fonctions import alea
 
 class Fleur:
     """
